@@ -1,5 +1,3 @@
-This is a new file created by me
+DsC Unilag First workshop
 
-
-
-star boy
+Theme: Getting started with git
